@@ -1,0 +1,28 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 28 Aug 2023 20:00:20 at https://khushinahata04.wixsite.com/fashion-blogger +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://khushinahata04.wixsite.com/fashion-blogger -O1 "C:\My Web Sites\FashionBlog" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:00:44	Error: 	"Not Found" (404) at link https://khushinahata04.wixsite.com/ (from https://khushinahata04.wixsite.com/fashion-blogger)
+20:01:50	Error: 	"Not Found" (404) at link https://khushinahata04.wixsite.com/sitemap.xml (from https://khushinahata04.wixsite.com/fashion-blogger)
+20:01:50	Error: 	"Not Found" (404) at link https://khushinahata04.wixsite.com/feed.xml (from https://khushinahata04.wixsite.com/fashion-blogger)
+20:01:50	Error: 	"Not Found" (404) at link https://khushinahata04.wixsite.com/${n.uri} (from https://khushinahata04.wixsite.com/fashion-blogger)
+20:01:50	Error: 	"Not Found" (404) at link https://khushinahata04.wixsite.com/decodeURIComponent(e (from https://khushinahata04.wixsite.com/fashion-blogger)
+20:01:50	Error: 	"Not Found" (404) at link https://khushinahata04.wixsite.com/fashion-blogger/robots.txt (from https://khushinahata04.wixsite.com/fashion-blogger/blank-1)
+20:01:50	Error: 	"Not Found" (404) at link https://khushinahata04.wixsite.com/fashion-blogger/feed.xml (from https://khushinahata04.wixsite.com/fashion-blogger/blank-1)
+20:01:50	Error: 	"Not Found" (404) at link https://khushinahata04.wixsite.com/fashion-blogger/${n.uri} (from https://khushinahata04.wixsite.com/fashion-blogger/blank-1)
+20:01:50	Error: 	"Not Found" (404) at link https://khushinahata04.wixsite.com/fashion-blogger/decodeURIComponent(e (from https://khushinahata04.wixsite.com/fashion-blogger/blank-1)
+20:02:33	Error: 	"Not Found" (404) at link https://khushinahata04.wixsite.com/fashion-blogger/category/sitemap.xml (from https://khushinahata04.wixsite.com/fashion-blogger/category/all-products)
+20:02:33	Error: 	"Not Found" (404) at link https://khushinahata04.wixsite.com/fashion-blogger/category/feed.xml (from https://khushinahata04.wixsite.com/fashion-blogger/category/all-products)
+20:02:37	Error: 	"Not Found" (404) at link https://khushinahata04.wixsite.com/fashion-blogger/post/sitemap.xml (from https://khushinahata04.wixsite.com/fashion-blogger/post/template-how-to-write-a-tips-blog-post)
+20:02:37	Error: 	"Not Found" (404) at link https://khushinahata04.wixsite.com/fashion-blogger/post/feed.xml (from https://khushinahata04.wixsite.com/fashion-blogger/post/template-how-to-write-a-tips-blog-post)
+20:02:52	Error: 	"Not Found" (404) at link https://khushinahata04.wixsite.com/fashion-blogger/product-page/sitemap.xml (from https://khushinahata04.wixsite.com/fashion-blogger/product-page/i-m-a-product)
+20:02:52	Error: 	"Not Found" (404) at link https://khushinahata04.wixsite.com/fashion-blogger/product-page/feed.xml (from https://khushinahata04.wixsite.com/fashion-blogger/product-page/i-m-a-product)
+20:02:59	Error: 	"Not Found" (404) at link https://khushinahata04.wixsite.com/fashion-blogger/blog/hashtags/sitemap.xml (from https://khushinahata04.wixsite.com/fashion-blogger/blog/hashtags/WhiteDressPerfection)
+20:02:59	Error: 	"Not Found" (404) at link https://khushinahata04.wixsite.com/fashion-blogger/blog/hashtags/feed.xml (from https://khushinahata04.wixsite.com/fashion-blogger/blog/hashtags/WhiteDressPerfection)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 46 seconds : 168 links scanned, 150 files written (36983000 bytes overall) [10230512 bytes received at 61629 bytes/sec], 34001147 bytes transferred using HTTP compression in 78 files, ratio 20%, 2.2 requests per connection
+(17 errors, 0 warnings, 0 messages)
