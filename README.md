@@ -1,5 +1,7 @@
 # Fashion-Blogger
 A website that is built which idealises the view of a fashion lover and style enthusiast.
+It is built using https://wix.com and later the source code is extracted.
+WEBSITE LINK:https://khushinahata04.wixsite.com/fashion-blogger
 
 Welcome to Fashion Blogger, a fashion blog built with HTML, CSS, and JavaScript. I'm (your name), a fashion lover and web developer. I'm passionate about sharing my love of fashion and technology, and I hope my blog will inspire you to create your own unique style.
 
